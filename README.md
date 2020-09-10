@@ -2,6 +2,13 @@
 > Template for a multi-page Vue app
 
 
+## Preview
+
+![Sample 1](/sample-1.png)
+
+![Sample 2](/sample-2.png)
+
+
 ## About
 
 This project was generated using the GUI:
