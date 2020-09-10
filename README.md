@@ -11,7 +11,6 @@
 ## Preview
 
 ![Sample 1](/sample-1.png)
-
 ![Sample 2](/sample-2.png)
 
 
