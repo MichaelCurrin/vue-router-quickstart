@@ -1,7 +1,7 @@
 # Vue Router Quickstart
 > Template for a multi-page Vue app
 
-This project was generated using:
+This project was generated using the GUI:
 
 ```sh
 $ vue ui
