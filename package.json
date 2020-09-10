@@ -1,7 +1,7 @@
 {
   "name": "vue-router-quickstart",
   "description": "Template for a multi-page Vue app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "MichaelCurrin",
   "scripts": {
     "serve": "vue-cli-service serve",
