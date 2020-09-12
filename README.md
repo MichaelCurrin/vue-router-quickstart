@@ -22,15 +22,21 @@
 
 ## About
 
-This project was generated using the GUI:
+This project was generated using the GUI invoked by this command:
 
 ```sh
-$ vue ui
+$ npx vue ui
 ```
 
-The _router_ option was enabled to setup the Home and About pages.
+The _router_ option was enabled there to setup the Home and About pages.
 
-For a simpler project without the router, see:
+You can also use this to add it to an existing project.
+
+```sh
+$ vue add router
+```
+
+For creating a simpler project without the router, see:
 
 - Repo: [MichaelCurrin/vue-js-quickstart](https://github.com/MichaelCurrin/vue-js-quickstart)
 
