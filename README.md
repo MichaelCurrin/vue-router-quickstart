@@ -59,8 +59,8 @@ Install Node.js and Yarn - see these [gist instructions](https://gist.github.com
 Clone the repo - or your own repo generated from the template
 
 ```sh
-$ git clone git@github.com:MichaelCurrin/vue-js-quickstart.git
-$ cd vue-js-quickstart
+$ git clone git@github.com:MichaelCurrin/vue-router-quickstart.git
+$ cd vue-router-quickstart
 ```
 
 ### Install project dependencies
