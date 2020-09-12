@@ -43,32 +43,65 @@ For creating a simpler project without the router, see:
 
 ## Requirements
 
-- Yarn
+- [Node.js](https://github.com/MichaelCurrin/learn-to-code/blob/master/en/topics/scripting_languages/JavaScript/node.md)
+- [Yarn](https://classic.yarnpkg.com/en/)
 
 
-## Project setup
+## Installation
+> How to setup the app locally
 
-Follow [Yarn installation](https://gist.github.com/MichaelCurrin/bdc34c554fa3023ee81449eb77375fcb) instructions.
+### Install system dependencies
 
-Install project dependencies.
+Install Node.js and Yarn - see these [gist instructions](https://gist.github.com/MichaelCurrin/bdc34c554fa3023ee81449eb77375fcb).
+
+### Clone
+
+Clone the repo - or your own repo generated from the template
+
+```sh
+$ git clone git@github.com:MichaelCurrin/vue-js-quickstart.git
+$ cd vue-js-quickstart
+```
+
+### Install project dependencies
+
+Install Node packages.
 
 ```sh
 $ yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Recommended extensions
+
+To add syntax highlighting of `.vue` files in VS Code, install an extension such as [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur).
+
+
+## Usage
+> How to run the app locally
+
+### Run
+
+Compile and start a hot-reloading dev server.
 
 ```sh
 $ yarn serve
 ```
 
-### Compiles and minifies for production
+Open in the browser:
+
+- https://localhost:8080
+
+### Build
+
+Compile and minify for production.
 
 ```sh
 $ yarn build
 ```
 
-### Lints and fixes files
+View the output in the unversioned `dist` directory.
+
+### Lint and fix
 
 ```sh
 $ yarn lint
@@ -77,3 +110,8 @@ $ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## License
+
+Released under [MIT](/LICENSE).
