@@ -5,20 +5,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=javascript)](https://nodejs.org)
-[![Made with Vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-js-quickstart/vue)](https://www.npmjs.com/package/vue)
+[![dependency - vue](https://img.shields.io/badge/dependency-vue-blue)](https://www.npmjs.com/package/vue)
 
 
 ## Preview
 
----
-
 ![Sample 1](/sample-1.png)
 
----
-
 ![Sample 2](/sample-2.png)
-
----
 
 
 ## About
