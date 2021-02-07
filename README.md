@@ -20,6 +20,7 @@
 
 ---
 
+
 ## About
 
 This project was generated using the GUI invoked by this command:
@@ -36,9 +37,9 @@ You can also use this to add it to an existing project.
 $ vue add router
 ```
 
-For creating a simpler project without the router, see:
+To create a simpler project _without_ the router, see:
 
-- Repo: [MichaelCurrin/vue-js-quickstart](https://github.com/MichaelCurrin/vue-js-quickstart)
+[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
 
 ## Requirements
