@@ -6,6 +6,7 @@
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=javascript)](https://nodejs.org)
 [![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-router-quickstart/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
+[![Package - vue-router](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-router-quickstart/vue-router)](https://www.npmjs.com/package/vue-router)
 
 
 ## Preview
