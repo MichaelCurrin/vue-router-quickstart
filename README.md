@@ -1,5 +1,5 @@
 # Vue Router Quickstart
-> Template for a multi-page Vue app
+> Starter template for a multi-page Vue app
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-router-quickstart)](https://github.com/MichaelCurrin/vue-router-quickstart/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
