@@ -1,6 +1,6 @@
 {
   "name": "vue-router-quickstart",
-  "description": "Template for a multi-page Vue app",
+  "description": "Starter template for a multi-page Vue app",
   "version": "0.3.0",
   "author": "MichaelCurrin",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "version": "npm run build",
+    "version": "yarn build",
     "postversion": "git push --follow-tags"
   },
   "dependencies": {
