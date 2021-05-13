@@ -24,9 +24,9 @@ This project was generated using the GUI invoked by this command:
 $ npx vue ui
 ```
 
-The _router_ option was enabled there to setup the Home and About pages.
+The _router_ option was enabled there to set up the Home and About pages.
 
-You can also use this to add it to an existing project.
+You can also use this to add Vue ROuter to an existing project.
 
 ```sh
 $ vue add router
