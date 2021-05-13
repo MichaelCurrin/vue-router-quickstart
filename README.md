@@ -21,7 +21,7 @@
 This project was generated using the GUI invoked by this command:
 
 ```sh
-$ npx vue ui
+$ npx @vue/cli ui
 ```
 
 The _router_ option was enabled there to set up the Home and About pages.
