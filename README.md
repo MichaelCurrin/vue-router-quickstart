@@ -1,10 +1,10 @@
 # Vue Router Quickstart
-> Starter template for a multi-page Vue app
+> Starter template for a multi-page Vue 2 app
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-router-quickstart)](https://github.com/MichaelCurrin/vue-router-quickstart/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-[![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=javascript)](https://nodejs.org)
+[![Made with Node](https://img.shields.io/badge/Node.js->=12-blue)](https://nodejs.org)
 [![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-router-quickstart/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
 [![Package - vue-router](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-router-quickstart/vue-router)](https://www.npmjs.com/package/vue-router)
 
