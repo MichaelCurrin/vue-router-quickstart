@@ -32,9 +32,13 @@ You can also use this to add Vue ROuter to an existing project.
 $ vue add router
 ```
 
-To create a simpler project _without_ the router, see:
+To create a simpler project _without_ Vue Router, see:
 
-[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
+- [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
+
+For a Vue 3 project using Vue Router and slash-based paths.
+
+- [![MichaelCurrin - vue-slash-routes-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-slash-routes-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-slash-routes-quickstart)
 
 
 ## Requirements
