@@ -107,6 +107,11 @@ View the output in the unversioned `dist` directory.
 $ yarn lint
 ```
 
+Add Prettier support:
+
+- Install `prettier`
+- Add `@vue/prettier` to `eslintConfig` `extends` in `package.json`.
+
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
