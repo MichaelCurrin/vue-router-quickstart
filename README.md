@@ -24,9 +24,9 @@ This project was generated using the GUI invoked by this command:
 $ npx @vue/cli ui
 ```
 
-The _router_ option was enabled there to set up the Home and About pages.
+The _router_ option was enabled there to set up the Home and About pages - _Project plugins_ then _Add vue-router_.
 
-You can also use this to add Vue ROuter to an existing project.
+You can also use this to add Vue Router to an existing project.
 
 ```sh
 $ vue add router
@@ -106,6 +106,11 @@ View the output in the unversioned `dist` directory.
 ```sh
 $ yarn lint
 ```
+
+Add Prettier support:
+
+- Install `prettier`
+- Add `@vue/prettier` to `eslintConfig` `extends` in `package.json`.
 
 ### Customize configuration
 
